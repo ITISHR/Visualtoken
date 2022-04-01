@@ -9,4 +9,9 @@
      apt:
       name: wget
       state: present
+   - name: i want to install git
+     apt: 
+      name: git
+      state: present 
+
   
