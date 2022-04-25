@@ -1,0 +1,13 @@
+
+{mywebservers}
+172.31.86.25
+172.31.29.226
+
+{myapplicationservers}
+
+
+{myubuntuservers}
+172.31.86.25
+
+{myredhatserver}
+172.31.29.226
